@@ -3,7 +3,7 @@ navneet-mufc/navneet-mufc is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
-<img src="./IMG_20210728_113443_840.jpg" width="180px">
+<img src="./IMG_20210728_113443_840.jpg" width="250px">
 <h3 align="center">
   👋 Hi, I am Navneet Singh - nxvneet
 </h3>
