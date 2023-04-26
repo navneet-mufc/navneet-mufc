@@ -7,11 +7,21 @@ navneet-mufc/navneet-mufc is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1>Projects worked:</h1>
+<h3 align="center">
+  Projects worked:
+</h3>
 
+<div aligm="center">
+  
 <a href="www.spawake.in"> Spawake </a>
-<a href="www.dalmiacement.com"> Dalmia Cement </a>
-<a href="www.dalmiabharat.com"> Dalmia Bharat Group</a>
-<a href="www.hisense-india.com"> Hisense India </a>
-<a href="https://www.switzgroup.com/"> Switz Group</a>
-<a href="https://toshibatv-in.com/"> Toshiba TV India</a>
+ <br>
+  <a href="www.dalmiacement.com"> Dalmia Cement </a>
+   <br>
+    <a href="www.dalmiabharat.com"> Dalmia Bharat Group</a>
+     <br>
+      <a href="www.hisense-india.com"> Hisense India </a>
+       <br>
+        <a href="https://www.switzgroup.com/"> Switz Group</a>
+         <br>
+          <a href="https://toshibatv-in.com/"> Toshiba TV India</a>
+</div>
