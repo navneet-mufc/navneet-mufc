@@ -2,9 +2,16 @@
 navneet-mufc/navneet-mufc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 <div align="center">
-    <p align="left"> - 👋 Hi, I’m Navneet Singh.</p>
+<img src="./my-avatar.jpg" width="180px">
+<h3 align="center">
+  👋 Hi, I am Navneet Singh - nxvneet
+</h3>
+</div>
+
+#
+<br>
+<div>
     <p> - 👀 I’m interested in Frontend development, Software development and Web design.</p>
     <p> - 📫 Connect with me on this link : https://linktr.ee/navvneat</p>
   </ul>
@@ -53,3 +60,16 @@ You can click the Preview link to take a look at your changes.
 </div>
  
 #
+
+<h3 align="center">
+  🛠️ Tools
+</h3>
+
+<br/>
+
+<div align="center">
+  <img alt="Visual Studio Code" width="180px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img alt="Terminal" width="87px" src="https://img.shields.io/badge/Terminal-100000?style=for-the-badge" />
+  <img alt="Git" width="61px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitHub" width="87px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</div>
