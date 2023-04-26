@@ -3,11 +3,10 @@ navneet-mufc/navneet-mufc is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<div>
-  <ul align="center">
-    <li>👋 Hi, I’m Navneet Singh.</li>
-    <li>👀 I’m interested in Frontend development, Software development and Web design.</li>
-    <li>📫 Connect with me on this link : https://linktr.ee/navvneat</li>
+<div align="center">
+    <p> - 👋 Hi, I’m Navneet Singh.</p>
+    <p> - 👀 I’m interested in Frontend development, Software development and Web design.</p>
+    <p> - 📫 Connect with me on this link : https://linktr.ee/navvneat</p>
   </ul>
 </div>
 <br>
@@ -47,7 +46,7 @@ You can click the Preview link to take a look at your changes.
   <img alt="React" width="86px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="jQuery" width="90px" src="https://img.shields.io/badge/Jquery-0769AD?style=for-the-badge&logo=Jquery">
   <img alt="Wordpress" width="120px" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=Wordpress">
-  <img alt="Styled Components" width="160px" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <img alt="Styled Components" width="172px" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <img alt="PHP" width="70px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="MySQL" width="90px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="Markdown" width="120px" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
