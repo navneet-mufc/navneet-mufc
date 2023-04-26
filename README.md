@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
   Projects worked:
 </h3>
 
-<div aligm="center">
+<div align="center">
   
 <a href="www.spawake.in"> Spawake </a>
  <br>
