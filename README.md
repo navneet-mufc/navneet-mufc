@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div>
-  <ul>
+  <ul align="center">
     <li>👋 Hi, I’m Navneet Singh.</li>
     <li>👀 I’m interested in Frontend development, Software development and Web design.</li>
     <li>📫 Connect with me on this link : https://linktr.ee/navvneat</li>
@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
   <img alt="JavaScript" width="125px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="React" width="86px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="jQuery" width="90px" src="https://img.shields.io/badge/Jquery-0769AD?style=for-the-badge&logo=Jquery">
-  <img alt="Wordpress" width="100px" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=Wordpress">
+  <img alt="Wordpress" width="120px" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=Wordpress">
   <img alt="Styled Components" width="160px" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <img alt="PHP" width="70px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="MySQL" width="90px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
