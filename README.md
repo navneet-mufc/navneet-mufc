@@ -7,11 +7,11 @@ navneet-mufc/navneet-mufc is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3 align="center">
+<h3 align="left">
   Projects worked:
 </h3>
 
-<div align="center">
+<div align="left">
   
 <a href="www.spawake.in"> Spawake </a>
  <br>
