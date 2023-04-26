@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-    <p> - 👋 Hi, I’m Navneet Singh.</p>
+    <p align="left"> - 👋 Hi, I’m Navneet Singh.</p>
     <p> - 👀 I’m interested in Frontend development, Software development and Web design.</p>
     <p> - 📫 Connect with me on this link : https://linktr.ee/navvneat</p>
   </ul>
