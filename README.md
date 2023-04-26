@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 #
 <br>
 <div>
-    <p> - 👀 I’m interested in Frontend development, Software development and Web design.</p>
+    <p> - 👨🏽‍💻 With vast experience in Frontend development, Web Design and interested in Software development</p>
     <p> - 📫 Connect with me on this link : https://linktr.ee/navvneat</p>
   </ul>
 </div>
