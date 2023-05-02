@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 </h1>
 <br>
 
-<img align="right" alt="GIF" src="./code.gif" />
+<img align="right" alt="GIF" src="./code2.gif" />
 
 
 - 👨🏽‍💻 With vast experience in Frontend development, 
