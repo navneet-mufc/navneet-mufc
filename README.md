@@ -23,11 +23,11 @@ https://linktr.ee/navvneat
 
 #
 
-<h3 align="left">
+<h3 align="center">
  🚀 Projects worked
 </h3>
 
-<div align="left">
+<div align="center">
   
 - <a href="www.spawake.in"> Spawake </a>
 - <a href="www.dalmiacement.com"> Dalmia Cement </a>
