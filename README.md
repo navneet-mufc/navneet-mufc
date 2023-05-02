@@ -9,9 +9,12 @@ You can click the Preview link to take a look at your changes.
    Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I am Navneet Singh - nxvneet
    <br>
 </h1>
+
+<img alt="GIF" src="./code2.gif" />
+
 <br>
 
-<img align="right" alt="GIF" src="./code2.gif" />
+<img alt="GIF" src="./code2.gif" />
 
 
 - 👨🏽‍💻 With vast experience in Frontend development, 
