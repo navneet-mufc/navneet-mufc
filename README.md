@@ -2,7 +2,7 @@
 navneet-mufc/navneet-mufc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<br>
 <h1 align="center">
    Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I am Navneet Singh - nxvneet
 </h1>
