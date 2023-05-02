@@ -4,9 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
 <img src="./random@me.png" width="250px">
-<h3 align="center">
-  👋 Hi, I am Navneet Singh - nxvneet
-</h3>
+<h1 align="center">
+   Hi<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I am Navneet Singh - nxvneet
+</h1>
 </div>
 
 #
