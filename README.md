@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-<img alt="GIF" src="./code2.gif" />
+
 
 
 - 👨🏽‍💻 With vast experience in Frontend development, 
