@@ -2,12 +2,12 @@
 navneet-mufc/navneet-mufc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div align="center">
-<img src="./random@me.png" width="250px">
+
+
 <h1 align="center">
-   Hi<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I am Navneet Singh - nxvneet
+   Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I am Navneet Singh - nxvneet
 </h1>
-</div>
+
 
 #
 <br>
@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
     <p> - 📫 Connect with me on this link : https://linktr.ee/navvneat</p>
   </ul>
 </div>
+<img src=".https://dribbble.com/shots/14971714-Remote-Work/attachments/6691026?mode=media" width="250px">
 <br>
 
 #
@@ -32,9 +33,9 @@ You can click the Preview link to take a look at your changes.
    <br>
     <a href="www.dalmiabharat.com"> Dalmia Bharat Group</a>
      <br>
-      <a href="www.hisense-india.com"> Hisense India </a>
-       <br>
-        <a href="https://www.switzgroup.com/"> Switz Group</a>
+    <a href="www.hisense-india.com"> Hisense India </a>
+   <br>
+<a href="https://www.switzgroup.com/"> Switz Group</a>
          <br>
           <a href="https://toshibatv-in.com/"> Toshiba TV India</a>
 </div>
