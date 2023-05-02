@@ -3,12 +3,12 @@ navneet-mufc/navneet-mufc is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <br>
-<div align="center">
 
 <h1>
    Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I am Navneet Singh - nxvneet
 </h1>
-
+<br/>
+<div align="center">
 <img alt="GIF" src="./code2.gif" />
 </div>
 
