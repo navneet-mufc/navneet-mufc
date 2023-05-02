@@ -6,12 +6,9 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 
 <h1>
-   
    Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I am Navneet Singh - nxvneet
    <br>
 </h1>
-
-<br>
 
 <img alt="GIF" src="./code2.gif" />
 </div>
