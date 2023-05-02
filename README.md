@@ -13,9 +13,9 @@ You can click the Preview link to take a look at your changes.
 <div>
     <p> - 👨🏽‍💻 With vast experience in Frontend development, Web Design and interested in Software development</p>
     <p> - 📫 Connect with me on this link : https://linktr.ee/navvneat</p>
-  </ul>
+    <img src="./code.gif" width="550px">
 </div>
-<img src="./code.gif" width="250px">
+
 <br>
 
 #
