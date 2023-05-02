@@ -11,11 +11,11 @@ You can click the Preview link to take a look at your changes.
 </h1>
 <br>
 
-<img align="right" alt="GIF" src="./code.gif" width="400px" />
+<img align="right" alt="GIF" src="./code.gif" />
 
 
 - 👨🏽‍💻 With vast experience in Frontend development, 
-      Web Design<br> and interested in Software development.
+    <br>Web Design and interested in Software development.
 
 - 📫 Connect with me on this link: 
 https://linktr.ee/navvneat
