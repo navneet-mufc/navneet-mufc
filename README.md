@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <br>
 
-<h1>
+<h1 align="center">
    Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I am Navneet Singh - nxvneet
 </h1>
 <br/>
