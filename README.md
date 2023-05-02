@@ -3,46 +3,44 @@ navneet-mufc/navneet-mufc is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <br>
+
 <h1 align="center">
+   
    Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I am Navneet Singh - nxvneet
+   <br>
 </h1>
-
-
-
 <br>
-<div>
-    <p> - 👨🏽‍💻 With vast experience in Frontend development, Web Design and interested in Software development</p>
-    <p> - 📫 Connect with me on this link : https://linktr.ee/navvneat</p>
-    <img src="./code.gif" align="right" width="550px" alt="GIF">
-</div>
 
-<br>
+<img align="right" alt="GIF" src="./code.gif" width="400px" />
+
+
+- 👨🏽‍💻 With vast experience in Frontend development, 
+      Web Design<br> and interested in Software development.
+
+- 📫 Connect with me on this link: 
+https://linktr.ee/navvneat
+
 
 #
 
-<h3 align="center">
-  Projects worked:
+<h3 align="left">
+ 🚀 Projects worked
 </h3>
 
-<div align="center">
+<div align="left">
   
-<a href="www.spawake.in"> Spawake </a>
- <br>
-  <a href="www.dalmiacement.com"> Dalmia Cement </a>
-   <br>
-    <a href="www.dalmiabharat.com"> Dalmia Bharat Group</a>
-     <br>
-    <a href="www.hisense-india.com"> Hisense India </a>
-   <br>
-<a href="https://www.switzgroup.com/"> Switz Group</a>
-         <br>
-          <a href="https://toshibatv-in.com/"> Toshiba TV India</a>
+- <a href="www.spawake.in"> Spawake </a>
+- <a href="www.dalmiacement.com"> Dalmia Cement </a>
+- <a href="www.dalmiabharat.com"> Dalmia Bharat Group</a>
+- <a href="www.hisense-india.com"> Hisense India </a>
+- <a href="https://www.switzgroup.com/"> Switz Group </a>
+- <a href="https://toshibatv-in.com/"> Toshiba TV India </a>
 </div>
 
 #
 
 <h3 align="center">
-   Skills
+   💻 Skills
 </h3>
 <br/>
 
