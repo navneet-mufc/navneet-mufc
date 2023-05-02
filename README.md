@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <div>
     <p> - 👨🏽‍💻 With vast experience in Frontend development, Web Design and interested in Software development</p>
     <p> - 📫 Connect with me on this link : https://linktr.ee/navvneat</p>
-    <img src="./code.gif" width="550px">
+    <img src="./code.gif" align="right" width="550px" alt="GIF">
 </div>
 
 <br>
