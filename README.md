@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
     <p> - 📫 Connect with me on this link : https://linktr.ee/navvneat</p>
   </ul>
 </div>
-<img src=".https://dribbble.com/shots/14971714-Remote-Work/attachments/6691026?mode=media" width="250px">
+<img src="https://dribbble.com/shots/14971714-Remote-Work/attachments/6691026?mode=media" width="250px">
 <br>
 
 #
