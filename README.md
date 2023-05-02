@@ -7,13 +7,12 @@ You can click the Preview link to take a look at your changes.
 
 <h1>
    Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I am Navneet Singh - nxvneet
-   <br>
 </h1>
 
 <img alt="GIF" src="./code2.gif" />
 </div>
 
-<br>
+
 
 #
 <br>
