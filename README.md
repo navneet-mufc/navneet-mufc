@@ -3,7 +3,6 @@ navneet-mufc/navneet-mufc is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-
 <h1 align="center">
    Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I am Navneet Singh - nxvneet
 </h1>
@@ -16,7 +15,7 @@ You can click the Preview link to take a look at your changes.
     <p> - 📫 Connect with me on this link : https://linktr.ee/navvneat</p>
   </ul>
 </div>
-<img src="https://dribbble.com/shots/14971714-Remote-Work/attachments/6691026?mode=media" width="250px">
+<img src="./code.gif" width="250px">
 <br>
 
 #
