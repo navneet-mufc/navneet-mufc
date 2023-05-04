@@ -32,11 +32,11 @@ https://linktr.ee/navvneat
 
 <div align="center">
   
-[Spawake](www.spawake.in)
-[Dalmia Cement](www.dalmiacement.com)
-[Dalmia Bharat](www.dalmiabharat.com)
-[Hisense India](www.hisense-india.com)
-[Switz Group](https://www.switzgroup.com/)
+[Spawake](www.spawake.in)<br>
+[Dalmia Cement](www.dalmiacement.com)<br>
+[Dalmia Bharat](www.dalmiabharat.com)<br>
+[Hisense India](www.hisense-india.com)<br>
+[Switz Group](https://www.switzgroup.com/)<br>
 [Toshiba TV India](https://toshibatv-in.com/) 
 
 </div>
