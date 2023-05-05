@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 
 #
-<br>
+
 
 - 👨🏽‍💻 With vast experience in Frontend development, 
     Web Design and interested in Software development.
