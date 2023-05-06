@@ -17,11 +17,13 @@ You can click the Preview link to take a look at your changes.
 #
 
 
+
 - 👨🏽‍💻 With vast experience in Frontend development, 
     Web Design and interested in Software development.
 
 - 📫 Connect with me on this link: 
 https://linktr.ee/navvneat
+
 
 
 #
