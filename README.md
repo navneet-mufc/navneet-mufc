@@ -29,7 +29,7 @@ https://linktr.ee/navvneat
 #
 
 <h3 align="center">
- 🚀 Projects worked
+ 🚀 Projects/Client work
 </h3>
 
 <div align="center">
