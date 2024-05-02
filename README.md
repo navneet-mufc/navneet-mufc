@@ -1,79 +1,35 @@
-<!---
-navneet-mufc/navneet-mufc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<br>
+# 💫 About Me:
 
-<h1 align="center">
-   Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I am Navneet Singh - nxvneet
-</h1>
-<br/>
-<div align="center">
-<img alt="GIF" src="./code2.gif" />
-</div>
+Web developer with about 3 years of experience building dynamic and responsive websites.<br>
 
+## 🌐 Socials:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/navneeet-singh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@navvvneat)
 
-#
+# 💻 Tech Stack:
 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+# 📊 GitHub Stats:
 
-- 👨🏽‍💻 With vast experience in Frontend development, 
-    Web Design and interested in Software development.
+![](https://github-readme-stats.vercel.app/api?username=nxvneet&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nxvneet&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nxvneet&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 📫 Connect with me on this link: 
-https://linktr.ee/navvneat
+### ✍️ Random Dev Quote
 
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
+### 🔝 Top Contributed Repo
 
-#
+![](https://github-contributor-stats.vercel.app/api?username=nxvneet&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
-<h3 align="center">
- 🚀 Projects/Client work
-</h3>
+### 😂 Random Dev Meme
 
-<div align="center">
-  
-[Spawake](https://www.spawake.in)<br>
-[Dalmia Cement](https://www.dalmiacement.com)<br>
-[Dalmia Bharat](https://www.dalmiabharat.com)<br>
-[Hisense India](https://www.hisense-india.com)<br>
-[Switz Group](https://www.switzgroup.com/)<br>
-[Toshiba TV India](https://toshibatv-in.com/) 
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-</div>
+---
 
-#
+[![](https://visitcount.itsvg.in/api?id=nxvneet&icon=2&color=9)](https://visitcount.itsvg.in)
 
-<h3 align="center">
-   💻 Skills
-</h3>
-<br/>
-
-<div align="center">
-  <img alt="HTML5" width="85px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" width="75px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" width="125px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="React" width="86px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="jQuery" width="90px" src="https://img.shields.io/badge/Jquery-0769AD?style=for-the-badge&logo=Jquery">
-  <img alt="Wordpress" width="120px" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=Wordpress">
-  <img alt="Styled Components" width="172px" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-  <img alt="PHP" width="70px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="MySQL" width="90px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="Markdown" width="120px" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-</div>
- 
-#
-
-<h3 align="center">
-  🛠️ Tools
-</h3>
-
-<br/>
-
-<div align="center">
-  <img alt="Visual Studio Code" width="180px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img alt="Terminal" width="87px" src="https://img.shields.io/badge/Terminal-100000?style=for-the-badge" />
-  <img alt="Git" width="61px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitHub" width="87px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
