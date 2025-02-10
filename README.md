@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 
 Frontend developer proficient in JavaScript and various frontend technologies. I specialize in crafting responsive, user-friendly web applications.
 
